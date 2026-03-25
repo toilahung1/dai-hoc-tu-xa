@@ -1,0 +1,11 @@
+# Tích hợp skill Slack vào Open Claw
+
+1. **Chuẩn bị tệp:** Tệp `steipete_slack` đã được tải về và chứa mã nguồn cho skill Slack.
+
+2. **Di chuyển tệp:** Di chuyển tệp vào thư mục của dự án Open Claw hoặc nơi phù hợp với cấu trúc của một skill.
+
+3. **Cấu hình:** Cấu hình file và các tham số cần thiết, đảm bảo rằng các phụ thuộc đã được cài đặt và không bị thiếu sót.
+
+4. **Khởi động lại Open Claw:** Sau khi các thiết lập hoàn tất, hãy khởi động lại Open Claw để kích hoạt skill mới.
+
+5. **Kiểm tra:** Xác nhận rằng skill đang hoạt động và có thể tương tác như mong muốn trong môi trường Open Claw.
